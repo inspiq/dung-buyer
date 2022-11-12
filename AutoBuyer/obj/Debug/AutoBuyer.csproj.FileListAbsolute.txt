@@ -1,0 +1,15 @@
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\bin\Debug\AutoBuyer.exe.config
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\bin\Debug\AutoBuyer.exe
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\bin\Debug\AutoBuyer.pdb
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.csproj.AssemblyReference.cache
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.csproj.SuggestedBindingRedirects.cache
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.Properties.Resources.resources
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.csproj.GenerateResource.cache
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.csproj.CoreCompileInputs.cache
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.exe
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.pdb
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\bin\Debug\AutoBuyer.exe.manifest
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\bin\Debug\AutoBuyer.application
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.exe.manifest
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.application
+C:\Users\vippo\source\repos\AutoBuyer\AutoBuyer\obj\Debug\AutoBuyer.App.resources
